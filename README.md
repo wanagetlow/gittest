@@ -1,0 +1,1 @@
+This is Junehee's first git project!
